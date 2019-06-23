@@ -1,0 +1,101 @@
+strategy,predicate1,class1,hand1,predicate2,class2,hand2,alarm,filename,hold,dbl,nmm
+dbl+nmm,сидеть:LOC,Stage-level states,both,болтать,Accomplishments,both,"ЛР-глосс1: 1353075--1353345 ""есть"" | ЛР-глосс1: 1354140--1355120 ""есть"" | ПР-глосс1: 1353075--1353345 ""есть"" | ПР-глосс1: 1354140--1355120 ""есть"" | ",RSL-q-N4.eaf,False,True,True
+dbl,курить,Accomplishments,right,бродить,Activities,right,,RSL-q2-N1-N2.eaf,False,True,False
+hold+nmm,вдохнуть,Activities,left,брызгать.духами,Activities,right,,RSL-q-N1-N2.eaf,True,False,True
+hold+nmm,вдыхать,Activities,left,брызгать.духами,Activities,right,,RSL-q-N4.eaf,True,False,True
+hold+dbl,гладить.утюгом,Accomplishments,both,ворчать,Activities,right,,RSL-q-N4.eaf,True,True,False
+hold+dbl,гладить.утюгом,Accomplishments,right,ворчать,Activities,right,,RSL-q-N5-N6.eaf,True,True,False
+hold+nmm,гладить.утюгом,Accomplishments,both,ворчать,Activities,right,,RSL-q1-N3.eaf,True,False,True
+hold+dbl+nmm,гладить.утюгом,Accomplishments,both,ворчать,Activities,right,,RSL-q-N1-N2.eaf,True,True,True
+hold+dbl+nmm,гладить.утюгом,Accomplishments,both,ворчать1,Activities,right,,RSL-q-N1-N2.eaf,True,True,True
+hold,гладить.утюгом,Accomplishments,right,вспомнить,Achievements,left,,RSL-q-N4.eaf,True,False,False
+hold,гладить.утюгом,Accomplishments,left,вспомнить,Achievements,right,,RSL-q-N4.eaf,True,False,False
+hold+dbl+nmm,ворчать.на.ЖЯ,Activities,both,гладить.утюгом,Accomplishments,right,,RSL-q1-N3.eaf,True,True,True
+dbl+nmm,ворчать2,Activities,right,гладить.утюгом,Accomplishments,right,,RSL-q-N1-N2.eaf,False,True,True
+hold+dbl,ворчать2,Activities,left,гладить.утюгом,Accomplishments,right,,RSL-q-N1-N2.eaf,True,True,False
+nmm,лечь,Stage-level states,both,глазеть,Accomplishments,right,,RSL-q-N4.eaf,False,False,True
+hold+nmm,лечь,Stage-level states,right,глазеть,Accomplishments,right,,RSL-q-N5-N6.eaf,True,False,True
+hold,лечь.и.лежать,Stage-level states,left,глазеть,Accomplishments,right,,RSL-q2-N1-N2.eaf,True,False,False
+hold+dbl+nmm,рассказывать,Accomplishments,both,глазеть,Accomplishments,right,,RSL-q1-N1-N2.eaf,True,True,True
+hold+dbl+nmm,рассказывать,Accomplishments,both,глазеть,Accomplishments,right,"ПР-глосс2: 114371--115025 ""думать"" | ",RSL-q1-N1-N2.eaf,True,True,True
+hold,сидеть,Stage-level states,left,глазеть,Accomplishments,right,,RSL-q2-N1-N2.eaf,True,False,False
+hold+dbl,печатать.на.клавиатуре,Accomplishments,both,говорить,Activities,right,,RSL-q-N4.eaf,True,True,False
+dbl+nmm,писать.на.доске,Accomplishments,right,говорить,Activities,right,,RSL-q1-N1-N2.eaf,False,True,True
+dbl+nmm,писать.на.доске,Accomplishments,right,говорить,Activities,right,,RSL-q1-N1-N2.eaf,False,True,True
+dbl,вспоминать,Activities,both,говорить.на.ЖЯ,Activities,both,"ПР-глосс1: 25530--26360 ""вспоминать"" | ПР-глосс1: 27885--29205 ""вспоминать"" | ",RSL-q-N4.eaf,False,True,False
+hold+nmm,ворчать,Activities,left,говорить.по.телефону,Activities,right,,RSL-q-N4.eaf,True,False,True
+nmm,ворочаться,Activities,both,думать,Activities,both,"ПР-глосс2: 941632--942159 ""мечтать"" | ",RSL-q-N1-N2.eaf,False,False,True
+hold+nmm,гладить.утюгом,Accomplishments,both,думать,Activities,right,"ПР-глосс1: 1442560--1443460 ""размышлять"" | ",RSL-q-N3.eaf,True,False,True
+dbl+nmm,есть,Accomplishments,right,думать,Activities,right,"ПР-глосс1: 1398450--1398940 ""размышлять"" | ПР-глосс1: 1399415--1400325 ""размышлять"" | ",RSL-q-N3.eaf,False,True,True
+hold+dbl+nmm,жевать,Activities,both,думать,Activities,right,"ПР-глосс2: 769780--770090 ""есть"" | ",RSL-q-N1-N2.eaf,True,True,True
+hold+nmm,читать.книгу,Accomplishments,both,думать,Activities,right,,RSL-q1-N3.eaf,True,False,True
+dbl+nmm,думать,Activities,right,есть,Accomplishments,right,,RSL-q-N3.eaf,False,True,True
+fsp,листать,Accomplishments,left,есть,Accomplishments,right,,RSL-q-N4.eaf,False,False,False
+dbl+nmm,обдумывать,Activities,both,есть,Accomplishments,right,,RSL-q-N1-N2.eaf,False,True,True
+fsp,писать.смс,Accomplishments,left,есть,Accomplishments,right,,RSL-q-N4.eaf,False,False,False
+hold+dbl+nmm,читать,Accomplishments,both,есть,Accomplishments,left,,RSL-q-N4.eaf,True,False,True
+hold+dbl+nmm,читать.книгу,Accomplishments,both,есть,Accomplishments,right,,RSL-q-N1-N2.eaf,True,True,True
+hold+nmm,читать,Accomplishments,both,ехать,Activities,right,"ПР-глосс2: 593180--593690 ""прибыть"" | ",RSL-q-N1-N2.eaf,True,False,True
+dbl+nmm,смотреть,Accomplishments,right,жалеть,Stage-level states,right,"ПР-глосс1: 1162019--1162786 ""вздохнуть"" | ",RSL-q-N1-N2.eaf,False,True,True
+dbl+nmm,бродить,Activities,right,курить,Accomplishments,right,,RSL-q2-N1-N2.eaf,False,True,True
+dbl+nmm,бродить,Activities,right,курить,Accomplishments,right,,RSL-q2-N1-N2.eaf,False,True,True
+hold+dbl+nmm,вести.машину,Stage-level states,both,курить,Accomplishments,both,,RSL-q-N4.eaf,True,True,True
+nmm,гулять,Activities,right,курить,Accomplishments,right,,RSL-q2-N1-N2.eaf,False,False,True
+hold+dbl+nmm,идти.на.каблуках,Activities,both,курить,Accomplishments,right,,RSL-q2-N1-N2.eaf,True,True,True
+hold+nmm,мечтать/сон,Activities,right,курить,Accomplishments,right,,RSL-q-N5-N6.eaf,True,False,True
+dbl,нервничать,Activities,both,курить,Accomplishments,right,,RSL-q2-N1-N2.eaf,False,True,False
+hold+dbl+nmm,нервничать,Activities,both,курить,Accomplishments,right,,RSL-q-N4.eaf,True,True,True
+hold+dbl+nmm,нервничать,Activities,both,курить,Accomplishments,right,,RSL-q1-N3.eaf,True,True,True
+dbl,объяснять,Accomplishments,both,курить,Accomplishments,right,,RSL-q2-N1-N2.eaf,False,True,False
+hold+nmm,идти.на.каблуках,Activities,both,курить2,Accomplishments,right,,RSL-q2-N1-N2.eaf,True,False,True
+nmm,мечтать/сон,Activities,both,лечь,Stage-level states,right,,RSL-q-N4.eaf,False,False,True
+nmm,смотреть (оглядывать),Accomplishments,both,лечь,Stage-level states,right,,RSL-q2-N1-N2.eaf,False,False,True
+dbl+nmm,гладить.утюгом,Accomplishments,both,мечтать,Activities,both,,RSL-q-N1-N2.eaf,False,True,True
+dbl,гладить.утюгом,Accomplishments,both,мечтать,Activities,both,,RSL-q-N1-N2.eaf,False,True,False
+dbl+nmm,лежать.скрестив.ноги,Stage-level states,both,мечтать,Activities,both,,RSL-q-N1-N2.eaf,False,True,True
+nmm,спать,Accomplishments,right,мечтать,Activities,right,,RSL-q2-N1-N2.eaf,False,False,True
+nmm,уснуть,Stage-level states,right,мечтать/сон,Activities,right,,RSL-q-N5-N6.eaf,False,False,True
+hold+nmm,писать.смс,Accomplishments,both,нервничать,Activities,left,,RSL-q-N3.eaf,True,False,True
+dbl+nmm,писать.смс,Accomplishments,right,нервничать,Activities,right,,RSL-q1-N1-N2.eaf,False,True,True
+nmm,рассказывать,Accomplishments,both,нмм взгляд,N/A,right,,RSL-q-N4.eaf,False,False,True
+nmm,писать.смс,Accomplishments,both,нмм покачивание+рот,N/A,right,,RSL-q-N4.eaf,False,False,True
+dbl+nmm,хохотать,Activities,both,общаться.на.ЖЯ,Activities,both,,RSL-q-N3.eaf,False,True,True
+hold+nmm,лежать,Stage-level states,left,объяснять,Accomplishments,right,,RSL-q2-N1-N2.eaf,True,False,True
+hold,сидеть,Stage-level states,left,объяснять,Accomplishments,right,,RSL-q2-N1-N2.eaf,True,False,False
+dbl+nmm,хохотать,Activities,both,объяснять,Accomplishments,both,,RSL-q-N3.eaf,False,True,True
+nmm,рассказывать,Accomplishments,both,отделаться,Achievements,both,,RSL-q-N3.eaf,False,False,True
+nmm,стоять,Stage-level states,both,петь,Accomplishments,both,,RSL-q-N1-N2.eaf,False,False,True
+nmm,стоять,Stage-level states,both,петь,Accomplishments,both,,RSL-q-N1-N2.eaf,False,False,True
+dbl,сидеть:LOC,Stage-level states,both,печатать.на.клавиатуре,Accomplishments,both,,RSL-q2-N1-N2.eaf,False,True,False
+nmm,глазеть,Accomplishments,both,писать.смс,Accomplishments,left,"ПР-глосс1: 2028070--2030940 ""писать.смс"" | ",RSL-q-N4.eaf,False,False,True
+fsp,есть,Accomplishments,left,писать.смс,Accomplishments,both,"ПР-глосс1: 2046700--2047210 ""писать.смс"" | ",RSL-q-N4.eaf,False,False,False
+hold+nmm,нервничать,Activities,left,писать.смс,Accomplishments,right,,RSL-q-N3.eaf,True,False,True
+hold+nmm,нервничать,Activities,left,писать.смс,Accomplishments,both,,RSL-q-N3.eaf,True,False,True
+fsp,нервничать,Activities,left,писать.смс,Accomplishments,right,,RSL-q-N3.eaf,False,False,False
+dbl,нервничать,Activities,right,писать.смс,Accomplishments,right,,RSL-q1-N1-N2.eaf,False,True,False
+dbl+nmm,обдумывать,Activities,both,писать.смс,Accomplishments,both,,RSL-q-N1-N2.eaf,False,True,True
+hold+dbl+nmm,соображать,Activities,both,писать.смс,Accomplishments,right,,RSL-q-N4.eaf,True,True,True
+nmm,соображать,Activities,both,писать.смс,Accomplishments,right,,RSL-q-N4.eaf,False,False,True
+dbl+nmm,соображать,Activities,both,писать.смс,Accomplishments,right,,RSL-q-N1-N2.eaf,False,True,True
+hold+nmm,лежать.под.одеялом,Stage-level states,both,получать.удовольствие,Stage-level states,right,,RSL-q1-N3.eaf,True,False,True
+hold+dbl+nmm,лежать.под.одеялом,Stage-level states,both,получать.удовольствие,Stage-level states,right,,RSL-q1-N3.eaf,True,True,True
+hold+nmm,читать.книгу,Accomplishments,both,получать.удовольствие?,Stage-level states,right,,RSL-q1-N3.eaf,True,False,True
+hold+dbl+nmm,печатать.на.клавиатуре,Accomplishments,both,попить,Accomplishments,right,,RSL-q-N4.eaf,True,True,True
+hold+nmm,читать,Accomplishments,left,прочитать,Accomplishments,both,"ПР-глосс2: 614049--614629 ""есть"" | ПР-глосс2: 614653--615626 ""есть"" | ",RSL-q-N1-N2.eaf,True,False,True
+hold+dbl,гладить.утюгом,Accomplishments,both,размышлять,Activities,both,,RSL-q-N4.eaf,True,True,False
+hold+dbl+nmm,гладить.утюгом,Accomplishments,both,размышлять,Activities,left,,RSL-q-N4.eaf,True,True,True
+dbl+nmm,лечь.и.лежать,Stage-level states,both,размышлять,Activities,both,,RSL-q-N4.eaf,False,True,True
+hold+nmm,лечь.и.лежать,Stage-level states,both,рассказывать,Accomplishments,left,"ПР-глосс2: 396790--397217 ""рассказывать"" | ПР-глосс2: 397233--397533 ""говорить"" | ПР-глосс2: 397546--398259 ""рассказывать"" | ",RSL-q1-N1-N2.eaf,True,False,True
+nmm,есть,Accomplishments,both,рассказывать,Accomplishments,both,,RSL-q-N1-N2.eaf,False,False,True
+dbl+nmm,есть.из.тарелки,Accomplishments,both,рассказывать,Accomplishments,both,,RSL-q-N3.eaf,False,True,True
+nmm,лечь.и.лежать,Stage-level states,both,рассказывать,Accomplishments,both,,RSL-q1-N1-N2.eaf,False,False,True
+nmm,давиться.от.смеха?,Stage-level states,both,смеяться,Activities,right,,RSL-q-N3.eaf,False,False,True
+dbl+nmm,смеяться.над,Activities,right,смеяться,Activities,right,,RSL-q-N1-N2.eaf,False,True,True
+dbl+nmm,сидеть,Stage-level states,both,смеяться.над,Activities,both,,RSL-q-N1-N2.eaf,False,True,True
+hold,сидеть:REC,Stage-level states,both,спросить,Achievements,right,,RSL-q-N1-N2.eaf,True,False,False
+nmm,работать,Accomplishments,right,учиться,Accomplishments,right,,RSL-q-N1-N2.eaf,False,False,True
+hold+dbl+nmm,разговаривать,Accomplishments,both,хохотать,Activities,right,"ПР-глосс1: 1029311--1029638 ""смеяться"" | ",RSL-q-N1-N2.eaf,True,True,True
+dbl+nmm,разговаривать,Accomplishments,both,хохотать,Activities,both,,RSL-q-N1-N2.eaf,False,True,True
+nmm,отдыхать,Stage-level states,both,читать,Accomplishments,both,,RSL-q-N1-N2.eaf,False,False,True
+dbl+nmm,отдыхать,Stage-level states,both,читать,Accomplishments,both,,RSL-q-N1-N2.eaf,False,True,True
+hold+dbl+nmm,есть,Accomplishments,both,LOC:рассказывать:1SG,Accomplishments,right,,RSL-q-N1-N2.eaf,True,True,True
